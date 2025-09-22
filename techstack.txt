@@ -1,0 +1,11 @@
+
+---
+
+### `requirements.txt`
+```txt
+flask
+boto3
+pycryptodome
+pymongo
+redis
+gunicorn
