@@ -1,0 +1,12 @@
+{
+  "tenants": {
+    "tenant123": {
+      "access_token": "tenant123-token",
+      "quota": "10GB"
+    },
+    "admin456": {
+      "access_token": "admin456-token",
+      "quota": "unlimited"
+    }
+  }
+}
